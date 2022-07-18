@@ -1,2 +1,2 @@
 Hi, I'm Richard! I am a dual-degree CS undergrad at Northwestern University.
-Welcome to my second home
+Here is a collection of some personal projects I have been working on :D
