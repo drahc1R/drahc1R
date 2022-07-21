@@ -3,4 +3,4 @@ Here is a collection of some projects I have been working on :D
 
 ![drahc1R's GitHub stats](https://github-readme-stats.vercel.app/api?username=drahc1R&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drahc1R&layout=compact)](https://github.com/drahc1R/github-readme-stats)
+
