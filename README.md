@@ -76,7 +76,7 @@ Here is a collection of some projects I have been working on :D
    
   </tr>
   <tr>
-    <td align="center" height="108" width="108">
+<!--     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
         width="48"
@@ -84,7 +84,7 @@ Here is a collection of some projects I have been working on :D
         alt="Next.js"
       />
       <br /><strong>Next.js</strong>
-    </td>
+    </td> -->
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"
