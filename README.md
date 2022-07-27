@@ -53,6 +53,15 @@ Here is a collection of some projects I have been working on :D
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"
+        width="48"
+        height="48"
+        alt="R"
+      />
+      <br /><strong>R</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
         width="48"
         height="48"
@@ -133,6 +142,15 @@ Here is a collection of some projects I have been working on :D
         alt="Npm"
       />
       <br /><strong>Npm</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"
+        width="48"
+        height="48"
+        alt="Unity"
+      />
+      <br /><strong>Unity Engine</strong>
     </td>
   </tr>
 </table>
