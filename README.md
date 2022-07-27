@@ -27,7 +27,7 @@ Here is a collection of some projects I have been working on :D
         alt="CSS3"
       />
       <br /><strong>CSS3</strong>
-    </td>
+<!--     </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
@@ -36,7 +36,7 @@ Here is a collection of some projects I have been working on :D
         alt="AWS"
       />
       <br /><strong>AWS</strong>
-    </td>
+    </td> -->
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
