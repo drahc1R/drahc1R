@@ -1,13 +1,9 @@
 Hi, I'm Richard! I am currently an undergrad at Northwestern University.
 Here is a collection of some projects I have been working on :D
-
 # 📈 Stats
-
 ![drahc1R's GitHub stats](https://github-readme-stats.vercel.app/api?username=drahc1R&show_icons=true&theme=synthwave)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=synthwave)](https://git.io/streak-stats)
-
 # 🔧 Technologies & Tools
-
 <table>
   <tr>
     <td align="center" height="108" width="108">
@@ -48,6 +44,15 @@ Here is a collection of some projects I have been working on :D
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>React</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
         width="48"
         height="48"
@@ -69,16 +74,6 @@ Here is a collection of some projects I have been working on :D
   <tr>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="48"
-        height="48"
-        alt="React"
-      />
-      <br /><strong>React</strong>
-    </td>
-  
-    <td align="center" height="108" width="108">
-      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
         width="48"
         height="48"
@@ -88,6 +83,7 @@ Here is a collection of some projects I have been working on :D
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expressjs/expressjs-original.svg"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
         width="48"
         height="48"
