@@ -27,16 +27,16 @@ Here is a collection of some projects I have been working on :D
         alt="CSS3"
       />
       <br /><strong>CSS3</strong>
-<!--     </td>
+    </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
         width="48"
         height="48"
-        alt="AWS"
+        alt="JavaScript"
       />
-      <br /><strong>AWS</strong>
-    </td> -->
+      <br /><strong>JavaScript</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
@@ -76,59 +76,32 @@ Here is a collection of some projects I have been working on :D
    
   </tr>
   <tr>
-<!--     <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-        width="48"
-        height="48"
-        alt="Next.js"
-      />
-      <br /><strong>Next.js</strong>
-    </td> -->
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
         width="48"
         height="48"
-        alt="Ruby"
+        alt="Node.js"
       />
-      <br /><strong>Ruby</strong>
+      <br /><strong>Node.js</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expressjs/expressjs-original.svg"
         width="48"
         height="48"
-        alt="GCP"
+        alt="ExpressJS"
       />
-      <br /><strong>Google Cloud</strong>
+      <br /><strong>Express.js</strong>
     </td>
-    <td align="center" height="108" width="108">
+        <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
         width="48"
         height="48"
-        alt="R"
+        alt="MongoDB"
       />
-      <br /><strong>R</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"
-        width="48"
-        height="48"
-        alt="Ubuntu"
-      />
-      <br /><strong>Ubuntu</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
-        width="48"
-        height="48"
-        alt="Kotlin"
-      />
-      <br /><strong>Kotlin</strong>
+      <br /><strong>MongoDB</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -138,6 +111,33 @@ Here is a collection of some projects I have been working on :D
         alt="Firebase"
       />
       <br /><strong>Firebase</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br /><strong>Git</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="Npm"
+      />
+      <br /><strong>Npm</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
+        width="48"
+        height="48"
+        alt="Jest"
+      />
+      <br /><strong>Jest</strong>
     </td>
   </tr>
 </table>
