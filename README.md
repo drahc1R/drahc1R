@@ -5,7 +5,7 @@ Here is a collection of some projects I have been working on :D
 
 # 📈 Stats
 ![drahc1R's GitHub stats](https://github-readme-stats.vercel.app/api?username=drahc1R&show_icons=true&theme=nightowl)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=drahc1R&theme=synthwave)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=drahc1R&theme=nightowl)](https://git.io/streak-stats)
 # 🔧 Technologies & Tools
 <table>
   <tr>
