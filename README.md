@@ -139,10 +139,10 @@ Here is a collection of some projects I have been working on :D
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/SQL/SQL-original-wordmark.svg"
         width="48"
         height="48"
-        alt="Npm"
+        alt="MySQL"
       />
       <br /><strong>Npm</strong>
     </td>
